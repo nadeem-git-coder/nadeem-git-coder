@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nadeem Ahmed Ansari</h1>
-<h3 align="center">A passionate Android developer</h3>
+<h3 align="center">A passionate Developer</h3>
 
 - 🔭 I’m currently working on **Machine Learning based App**
 
