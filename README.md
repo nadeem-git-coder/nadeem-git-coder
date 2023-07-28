@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nadeem Ahmed Ansari</h1>
 <h3 align="center">A passionate Developer</h3>
 
-- 🔭 I’m currently working on **Machine Learning based App**
+- 🔭 I’m currently working on **Machine Learning **
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Android, Python**
+- 💬 Ask me about **Machine Learning, Python**
 
-- 📫 How to reach me **ndansari002@gmail.com**
+- 📫 How to reach me **ahmed.ahmed0219@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
