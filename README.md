@@ -6,6 +6,7 @@
 - 💬 Ask me about **Machine Learning, Deep Learning, Data Science, Python**
 
 - 📫 How to reach me **ahmed.nadeem0219@gmail.com**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nadeem-git-coder&label=Profile%20views&color=0e75b6&style=flat" alt="nadeem-git-coder" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
